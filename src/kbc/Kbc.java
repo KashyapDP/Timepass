@@ -18,6 +18,7 @@ public class Kbc {
         // TODO code application logic here
         System.out.println("KBC1");
         System.out.println("Q1");
+        //fetch and ready to merge
     }
 
 }
