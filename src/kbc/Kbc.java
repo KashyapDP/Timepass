@@ -17,6 +17,7 @@ public class Kbc {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("KBC1");
+        System.out.println("Q1");
     }
 
 }
